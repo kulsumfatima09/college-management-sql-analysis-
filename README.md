@@ -119,7 +119,7 @@ The goal of the project is to perform real-world data analysis using SQL queries
 * enrollments.csv
 * exams.csv
 * schema.sql
-* analysis_queries.sql
+* college-management-sql-analysis
 
 ---
 
